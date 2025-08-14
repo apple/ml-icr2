@@ -1,0 +1,6 @@
+#
+# For licensing see accompanying LICENSE file.
+# Copyright (C) 2025 Apple Inc. All Rights Reserved.
+#
+
+from prompt.templates import PassageTemplate, RAGQAPromptTemplate, CloseBookQAPromptTemplate, LlamaChatQAPromptTemplate, QAUnaswerablePromptTemplate, LlamaChatQAUnaswerablePromptTemplate, ConvQAPromptTemplate, LlamaChatConvQAPromptTemplate, ConvQAUnaswerablePromptTemplate, LlamaChatConvQAUnaswerablePromptTemplate, MistralSystemPromptTemplate, QwenSystemPromptTemplate, PhiSystemPromptTemplate, OracleRAGQAPromptTemplate, CloseBookFactCheckPromptTemplate, OracleRAGFactCheckPromptTemplate, RAGFactCheckPromptTemplate, RAGDialoguePromptTemplate, CloseBookDialoguePromptTemplate, OracleRAGDialoguePromptTemplate, LlamaSystemPromptTemplate
