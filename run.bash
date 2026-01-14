@@ -8,7 +8,7 @@ export WANDB_DISABLE=true
 export HF_HOME="./transformers-home"
 export PYTHONIOENCODING=UTF-8
 
-TRANSFORMERS_TOKEN=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
+TRANSFORMERS_TOKEN=<YOUR HF TOKEN HERE>
 
 MODEL_SIGNATURE="Qwen/Qwen2-7B-Instruct"
 # MODEL_SIGNATURE="Qwen/Qwen2-1.5B-Instruct"
